@@ -1,25 +1,25 @@
 # In progress...
 
+
 <picture>
  <img alt="My logo text - Szeri" src="./szeri-logo-text.png">
 </picture>
 
-### Welcome to my profile👋,
+## Welcome to my profile👋,
 
 **I am passionate about programming**💻 and I am collecting knowledge📚 and experience in this profession.
 For this reason, **I like frontend🎨 and backend development⚙**, and the greatest satisfaction for me comes from building a project from streach to end🏆.
 In my free time, I play games🎮, read a lot of books📚 and solve problems on educational platforms🎓.
 If you are looking for a specialist👨‍💻, you've come to the right place🏁. **Not only do I write code, but I do my best building my projects🥇**.
 
-#### Technologies that I use:
-##### Backend:
+### Technologies that I use:
+#### Backend:
 - PHP
 - Laravel
 - Composer
 - MySQL
-
   
-##### Frontend:
+#### Frontend:
 - JavaScript
 - TypeScript
 - React
@@ -29,22 +29,17 @@ If you are looking for a specialist👨‍💻, you've come to the right place�
 - CSS3
 - HTML5
 
-
-##### General:
+#### General:
 - Git & Github
 
-
-
-
-
-#### Some informations about me:
+### Some informations about me:
 
 - 🔭 I'm currently working on projects that I could place in my portfolio. I want to master my web developement fullstack skills.
 - 🌱 I'm currently foccusing on PHP, MySQL, JavaSctipt, CSS, HTML knowlage. I want to have good fundamentals to understand networks, roles and get better in understanding design.
 - 👯 If you have some interesting project or looking for solid sepcialist send me message or mail.
 - 
 
-#### Some of my projects:
+### Some of my projects:
 
 - [FAQ accordion](https://github.com/Szeri323/FAQ-Accordion_FrontendMentor)
 - [Results summary component](https://github.com/Szeri323/Results-summary-component_FrontendMentor)
@@ -52,13 +47,13 @@ If you are looking for a specialist👨‍💻, you've come to the right place�
 - [Blog preview card](https://github.com/Szeri323/BlogPreviewCard_ForntendMentor)
 
 
-#### How to reach me:
+### How to reach me:
 
 
 
-#### Where else you can find me:
+### Where else you can find me:
 
-- [](),
+- [My LinkedIn profile](https://www.linkedin.com/in/tomasz-pacholek/),
 - [](),
 - [](),
 - [](),
@@ -66,10 +61,16 @@ If you are looking for a specialist👨‍💻, you've come to the right place�
 - [](),
 - [](),
 
-  #### Perfect working conditions for me:
+  ### Inspiring ideal coding conditions:
   
-- [](),
-- [](),
+<picture>
+ <img alt="Impresive view coding iwth dog" src="https://img.freepik.com/free-photo/laptop-takeaway-coffee-car-s-hood-with-beautiful-natural-scenery-background_181624-59685.jpg?w=2000&t=st=1705423976~exp=1705424576~hmac=630995c33ca1467b830deff3a11eb9831f43c70397fe3f9d4994aac91a6e43e5">
+</picture>
+<a href="https://www.freepik.com/free-photo/pov-man-drink-coffee-work-laptop-lake_11253735.htm#query=laptop%20nature&position=16&from_view=search&track=ais&uuid=310a451f-36e0-4795-af74-de00dda59f54">Image by bublikhaus</a> on Freepik
+<picture>
+ <img alt="Impresive view coding iwth dog" src="https://img.freepik.com/free-photo/pov-man-drink-coffee-work-laptop-lake_346278-214.jpg?w=2000&t=st=1705423986~exp=1705424586~hmac=2489258a4a8ebb05878c6c36839d05d63927600bdfedf276bdeeff4ac2764e8a">
+</picture>
+<a href="https://www.freepik.com/free-photo/laptop-takeaway-coffee-car-s-hood-with-beautiful-natural-scenery-background_29175054.htm#query=laptop%20nature&position=7&from_view=search&track=ais&uuid=310a451f-36e0-4795-af74-de00dda59f54">Image by wirestock</a> on Freepik
 
 
 <!--
