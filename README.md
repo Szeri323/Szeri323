@@ -64,11 +64,11 @@ If you are looking for a specialist👨‍💻, you've come to the right place�
   ### Inspiring ideal coding conditions:
   
 <picture>
- <img alt="Impresive view coding iwth dog" src="https://img.freepik.com/free-photo/laptop-takeaway-coffee-car-s-hood-with-beautiful-natural-scenery-background_181624-59685.jpg?w=2000&t=st=1705423976~exp=1705424576~hmac=630995c33ca1467b830deff3a11eb9831f43c70397fe3f9d4994aac91a6e43e5">
+ <img alt="Impresive view coding iwth dog" src="./laptop-takeaway-coffee-car-s-hood-with-beautiful-natural-scenery-background.jpg">
 </picture>
 <a href="https://www.freepik.com/free-photo/pov-man-drink-coffee-work-laptop-lake_11253735.htm#query=laptop%20nature&position=16&from_view=search&track=ais&uuid=310a451f-36e0-4795-af74-de00dda59f54">Image by bublikhaus</a> on Freepik
 <picture>
- <img alt="Impresive view coding iwth dog" src="https://img.freepik.com/free-photo/pov-man-drink-coffee-work-laptop-lake_346278-214.jpg?w=2000&t=st=1705423986~exp=1705424586~hmac=2489258a4a8ebb05878c6c36839d05d63927600bdfedf276bdeeff4ac2764e8a">
+ <img alt="Impresive view coding iwth dog" src="./pov-man-drink-coffee-work-laptop-lake.jpg">
 </picture>
 <a href="https://www.freepik.com/free-photo/laptop-takeaway-coffee-car-s-hood-with-beautiful-natural-scenery-background_29175054.htm#query=laptop%20nature&position=7&from_view=search&track=ais&uuid=310a451f-36e0-4795-af74-de00dda59f54">Image by wirestock</a> on Freepik
 
