@@ -14,6 +14,7 @@ If you are looking for a specialist👨‍💻, you've come to the right place�
 
 ### Technologies that I use:
 #### Backend:
+- Python
 - PHP
 - Laravel
 - Composer
@@ -37,8 +38,7 @@ If you are looking for a specialist👨‍💻, you've come to the right place�
 - 🔭 I'm currently working on projects that I could place in my portfolio. I want to master my web developement fullstack skills.
 - 🌱 I'm currently foccusing on PHP, MySQL, JavaSctipt, CSS, HTML knowlage. I want to have good fundamentals to understand networks, roles and get better in understanding design.
 - 👯 If you have some interesting project or looking for solid sepcialist send me message or mail.
-- 
-
+  
 ### Some of my projects:
 
 - [FAQ accordion](https://github.com/Szeri323/FAQ-Accordion_FrontendMentor)
@@ -55,11 +55,7 @@ If you are looking for a specialist👨‍💻, you've come to the right place�
 
 - [My LinkedIn profile](https://www.linkedin.com/in/tomasz-pacholek/),
 - [](),
-- [](),
-- [](),
-- [](),
-- [](),
-- [](),
+
 
   ### Inspiring ideal coding conditions:
   
