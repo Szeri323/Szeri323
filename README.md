@@ -7,10 +7,10 @@
 
 ## Welcome to my profile👋,
 
-**I am passionate about programming**💻 and I am collecting knowledge📚 and experience in this profession.
-For this reason, **I like frontend🎨 and backend development⚙**, and the greatest satisfaction for me comes from building a project from streach to end🏆.
-In my free time, I play games🎮, read a lot of books📚 and solve problems on educational platforms🎓.
-If you are looking for a specialist👨‍💻, you've come to the right place🏁. **Not only do I write code, but I do my best building my projects🥇**.
+**I am passionate about programming**💻 and I am constantly collecting knowledge📚 and experience in this profession.
+**I love backend development**⚙ and enjoy understanding how things work. **I like frontend development**🎨 too, and the greatest satisfaction for me comes from building a project from scratch to finish🏆.
+In my free time, I play games🎮, read a lot of books📚, and solve problems on educational platforms🎓.
+If you are looking for a specialist👨🏻‍💻, you've come to the right place🏁. **Not only do I write code, but I put my best effort into building my projects**🥇.
 
 ### Technologies that I use:
 #### Backend:
@@ -18,7 +18,7 @@ If you are looking for a specialist👨‍💻, you've come to the right place�
 - PHP
 - Laravel
 - Composer
-- MySQL
+- PostgreSQL & MySQL
   
 #### Frontend:
 - JavaScript
@@ -32,12 +32,13 @@ If you are looking for a specialist👨‍💻, you've come to the right place�
 
 #### General:
 - Git & Github
+- Windows & Linux OS knowledge
 
 ### Some informations about me:
 
 - 🔭 I'm currently working on projects that I could place in my portfolio. I want to master my web developement fullstack skills.
-- 🌱 I'm currently foccusing on PHP, MySQL, JavaSctipt, CSS, HTML knowlage. I want to have good fundamentals to understand networks, roles and get better in understanding design.
-- 👯 If you have some interesting project or looking for solid sepcialist send me message or mail.
+- 🌱 I'm currently foccusing on Backend. I want to have good fundamentals to understand network protocols .
+- 👨🏻‍💻 If you have some interesting project or looking for solid sepcialist send me message or mail.
   
 ### Some of my projects:
 
@@ -46,18 +47,13 @@ If you are looking for a specialist👨‍💻, you've come to the right place�
 - [QR code component](https://github.com/Szeri323/QRCodeComponent_ForntendMentor)
 - [Blog preview card](https://github.com/Szeri323/BlogPreviewCard_ForntendMentor)
 
-
-### How to reach me:
-
-
-
 ### Where else you can find me:
 
-- [My LinkedIn profile](https://www.linkedin.com/in/tomasz-pacholek/),
-- [](),
+- [HackerRank](https://www.hackerrank.com/profile/Szeri323),
+- [LinkedIn](https://www.linkedin.com/in/tomasz-pacholek/),
 
 
-  ### Inspiring ideal coding conditions:
+### Inspiring ideal coding conditions:
   
 <picture>
  <img alt="Impresive view coding iwth dog" src="./laptop-takeaway-coffee-car-s-hood-with-beautiful-natural-scenery-background.jpg">
@@ -70,6 +66,12 @@ If you are looking for a specialist👨‍💻, you've come to the right place�
 
 
 <!--
+
+
+
+### How to reach me:
+
+
 **Szeri323/Szeri323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
