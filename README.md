@@ -14,7 +14,8 @@ If you are looking for a specialist👨🏻‍💻, you've come to the right pla
 
 ### Technologies that I use:
 #### Backend:
-- [Python](https://github.com/Szeri323?tab=repositories&q=&type=&language=python&sort=) <- Click to see my repos in python
+- [C++](https://github.com/Szeri323?tab=repositories&q=&type=&language=c++&sort=) <- Click to see my repos in C++
+- [Python](https://github.com/Szeri323?tab=repositories&q=&type=&language=python&sort=) <- Click to see my repos in Python
 - PHP
 - Laravel
 - Composer
