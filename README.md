@@ -2,14 +2,12 @@
 
 
 <picture>
- <img alt="My logo text - Szeri" src="./szeri-logo-text.png">
+ <img alt="My logo text - Szeri" src="./szeri-logo-text.png" height="150">
 </picture>
 
 ## Welcome to my profile👋,
 
-**I am passionate about programming**💻 and I am constantly collecting knowledge📚 and experience in this profession.
-**I love backend development**⚙ and enjoy understanding how things work. **I like frontend development**🎨 too, and the greatest satisfaction for me comes from building a project from scratch to finish🏆.
-In my free time, I play games🎮, read a lot of books📚, and solve problems on educational platforms🎓.
+I am passionate about programming💻 and interested in **software engineering** and **backend development**⚙️. I find the greatest satisfaction in building projects from scratch and understanding how everything works🏆. In my free time, I play games🎮, read a lot of books📚, and solve problems on educational platforms🎓.
 If you are looking for a specialist👨🏻‍💻, you've come to the right place🏁. **Not only do I write code, but I put my best effort into building my projects**🥇.
 
 ### Technologies that I use:
@@ -17,42 +15,31 @@ If you are looking for a specialist👨🏻‍💻, you've come to the right pla
 - [C++](https://github.com/Szeri323?tab=repositories&q=&type=&language=c%2B%2B&sort=) <- Click to see my repos in C++
 - [Python](https://github.com/Szeri323?tab=repositories&q=&type=&language=python&sort=) <- Click to see my repos in Python
 - PHP
-- Laravel
-- Composer
-- PostgreSQL & MySQL
-  
-#### Frontend:
-- JavaScript
-- TypeScript
-- React
-- npm
-- Gulp
-- SASS/SCSS
-- CSS3
-- HTML5
+- PostgreSQL
+- MySQL
 
 #### General:
 - Git & Github
 - Windows & Linux OS knowledge
-
-### Some informations about me:
-
-- 🔭 I'm currently working on projects that I could place in my portfolio. I want to master my web developement fullstack skills.
-- 🌱 I'm currently foccusing on Backend. I want to have good fundamentals to understand network protocols .
-- 👨🏻‍💻 If you have some interesting project or looking for solid sepcialist send me message or mail.
   
 ### Some of my projects:
 
-- [FAQ accordion](https://github.com/Szeri323/FAQ-Accordion_FrontendMentor)
-- [Results summary component](https://github.com/Szeri323/Results-summary-component_FrontendMentor)
-- [QR code component](https://github.com/Szeri323/QRCodeComponent_ForntendMentor)
-- [Blog preview card](https://github.com/Szeri323/BlogPreviewCard_ForntendMentor)
+- [game-logic](https://github.com/Szeri323/game-logic) - the goal of the game-logic project is to showcase best practices in Python while combining my passion for coding and games.
+- [maze-solver](https://github.com/Szeri323/maze-solver) - maze-solver project is a guided project from boot.dev (an educational backend developement platform).
+- [c-plus-plus-exersices](https://github.com/Szeri323/c-plus-plus-exersices) - this repository contains all my exercises from the book "Programming Principles and Practice Using C++" by Bjarne Stroustrup, aimed at grounding and improving my programming skills.
+- [cryptology](https://github.com/Szeri323/cryptology) - this repository contains implementation of ciphers in Python.
 
 ### Where else you can find me:
 
+- [Boot.dev](https://www.boot.dev/u/szeri),
 - [HackerRank](https://www.hackerrank.com/profile/Szeri323),
 - [LinkedIn](https://www.linkedin.com/in/tomasz-pacholek/),
 
+### Some informations about me:
+
+- 🔨 I'm currently working on projects for my portfolio.
+- 🌱 I'm focused on building strong fundamentals in programming and networks protocols.
+- 👨🏻‍💻 If you have some interesting project or are looking for a skilled sepcialist feel free to message or email me.
 
 ### Inspiring ideal coding conditions:
   
